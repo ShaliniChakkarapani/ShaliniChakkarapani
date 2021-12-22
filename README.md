@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShaliniChakkarapani
+- 👀 I’m interested in front end developement
+- 🌱 I’m currently learning interactive website designing
+- 📫 reach me @shalinichakkarapani@gmail.com
