@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ShaliniChakkarapani
-- 👀 I’m interested in front end developement
-- 🌱 I’m currently learning interactive Website Designing and Java Programming 
+- 👀 I’m a self-starter and work well independently and also skilled at working in teams.
+- :) I have a strong knowledge in Java ,Php, HTML, CSS, MYSQL. 
 - 📫 reach me @shalinichakkarapani@gmail.com
